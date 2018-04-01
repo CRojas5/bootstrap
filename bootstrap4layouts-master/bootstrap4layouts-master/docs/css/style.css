@@ -41,19 +41,7 @@
   }
 }
 
-.site-header .site-nav {
-  transition: all .5s ease-out;
-  background: rgba(0,0,0,0);
-}
-
-.site-header .inbody {
-  background: rgba(56, 56, 56, 0.9);
-}
-
-.site-header .jumbotron {
-  min-height: 50vh;
-  background: transparent;
-}
+-----
 
 .site-header .animated {
   -webkit-animation-duration: 1s;
