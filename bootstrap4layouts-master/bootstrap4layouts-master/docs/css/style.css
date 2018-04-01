@@ -24,15 +24,6 @@
   font-weight: 100;
 }
 
-.site-header {
-  background: primary (rgba(0, 0, 0, .50) 50px, transparent),
-  url(https://dummyimage.com/16:9x400/6.png&text=+);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  overflow: hidden;
- 
-}
 
 
 .hero-image {
