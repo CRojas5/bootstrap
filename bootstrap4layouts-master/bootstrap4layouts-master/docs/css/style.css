@@ -43,6 +43,14 @@
 .site-header .animated {
   -webkit-animation-duration: 1s;
 }
+  
+  .jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-image: url(https://crojas5.github.io/bootstrap/bootstrap4layouts-master/bootstrap4layouts-master/docs/photos/crelax3.jpg);
+    background-size: cover;
+    border-radius: .3rem;
+  }
 
 ------
 
