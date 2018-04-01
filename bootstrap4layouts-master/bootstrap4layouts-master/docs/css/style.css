@@ -25,12 +25,6 @@
 }
 
 
-
-.hero-image {
-  background-image: url (https://crojas5.github.io/bootstrap/bootstrap4layouts-master/bootstrap4layouts-master/docs/photos/crelax3.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   
   
 @media screen and (max-width: 768px) {
@@ -41,7 +35,19 @@
   }
 }
 
------
+.site-header .site-nav {
+  transition: all .5s ease-out;
+  background: rgba(0,0,0,0);
+}
+
+.site-header .inbody {
+  background: blue;
+}
+
+.site-header .jumbotron {
+  min-height: 50vh;
+ background-image: url (https://crojas5.github.io/bootstrap/bootstrap4layouts-master/bootstrap4layouts-master/docs/photos/crelax3.jpg);
+}
 
 .site-header .animated {
   -webkit-animation-duration: 1s;
