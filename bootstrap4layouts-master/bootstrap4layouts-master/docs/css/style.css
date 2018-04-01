@@ -25,8 +25,7 @@
 }
 
 .site-header {
-  background: linear-gradient(rgba(0, 0, 0, .50) 50px, transparent),
-  url(https://dummyimage.com/16:9x400/6.png&text=+);
+  background: url(https://crojas5.github.io/bootstrap/bootstrap4layouts-master/bootstrap4layouts-master/docs/photos/crelax.jpg) no-repeat center center; 
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
