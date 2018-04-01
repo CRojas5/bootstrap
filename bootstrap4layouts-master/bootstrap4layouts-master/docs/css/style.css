@@ -31,8 +31,17 @@
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
+ 
 }
 
+
+.hero-image {
+  background-image: url (https://crojas5.github.io/bootstrap/bootstrap4layouts-master/bootstrap4layouts-master/docs/photos/crelax3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
 @media screen and (max-width: 768px) {
   .site-header .navbar-collapse {
     background-color: rgba(0,0,0,.5);
