@@ -33,21 +33,12 @@
     padding:10px;
     transition: all .5s ease-out;
   }
-}
 
-.site-header .site-nav {
-  transition: all .5s ease-out;
-  background: rgba(0,0,0,0);
-}
 
 .site-header .inbody {
   background: url (https://crojas5.github.io/bootstrap/bootstrap4layouts-master/bootstrap4layouts-master/docs/photos/crelax3.jpg);
 }
 
-.site-header .jumbotron {
-  min-height: 50vh;
- background-image: url (https://crojas5.github.io/bootstrap/bootstrap4layouts-master/bootstrap4layouts-master/docs/photos/crelax3.jpg);
-}
 
 .site-header .animated {
   -webkit-animation-duration: 1s;
