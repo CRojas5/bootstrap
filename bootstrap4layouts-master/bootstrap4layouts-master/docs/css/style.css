@@ -8,17 +8,13 @@
 
 /* Override Bootstrap Defaults */
 
-@import url('https://fonts.googleapis.com/css?family=Merriweather:300,700|Source+Sans+Pro:200,300,600');
 
 .animated { visibility: visible !important; }
 
 .family-sans {
-  font-family: "Source Sans Pro";
+  font-family: "Century Gothic";
 }
 
-.family-serif {
-  font-family: "Merriweather";
-}
 
 .font-weight-light {
   font-weight: 100;
