@@ -19,6 +19,20 @@
   font-weight: 100;
 }
 
+nav,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Oswald', sans-serif;
+}
+
+.jumbo-wrap {
+  background: rgba(0,0,0,0.6);
+  padding: 20px;
+}
 
 @media screen and (max-width: 768px) {
   .site-header .navbar-collapse {
@@ -29,7 +43,7 @@
 
 
 .site-header .inbody {
-  background: url (bootstrap/bootstrap4layouts-master/bootstrap4layouts-master/docs/photos/crelax3.jpg);
+  /* background-image: url (bootstrap/bootstrap4layouts-master/bootstrap4layouts-master/docs/photos/crelax3.jpg); */
 }
 
 
@@ -45,7 +59,7 @@
     border-radius: .3rem;
   }
 
-------
+
 
 .vertical-padding {
   padding-top: 80px;
